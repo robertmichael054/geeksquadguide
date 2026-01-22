@@ -9,7 +9,7 @@ Geek Squad is a renowned technology support service that provides comprehensive 
 
 
 
-.. image:: https://mcafee-antivirus.readthedocs.io/en/latest/_images/click-here.gif
+.. image:: bookappointment.png
    :alt: My Project Logo
    :width: 400px
    :align: center
